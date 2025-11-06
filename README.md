@@ -11,11 +11,11 @@
 ### *FrameWorks:*
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) [Maven](https://maven.apache.org/) [Gradle](https://gradle.org/)
 ### *Database:*
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ### *Tools:*
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-stats.vercel.app/api?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=i-wishker&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=i-wishker&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #### ***The Languages most frequently used doesn't reflect to the prophecy of other languages I;ve learnt***
 
