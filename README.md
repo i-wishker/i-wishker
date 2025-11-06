@@ -17,6 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=i-wishker&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#### ***The Languages most frequently used doesn't reflect to the prophecy of other languages I;ve learnt***
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=i-wishker&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
