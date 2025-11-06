@@ -1,5 +1,5 @@
 # Hey Crazy Devs! 🌻
-[alt text](Ideas.png)
+![alt text](Ideas.png)
 
 ## Find me on the web 🌐:
 - Learning in public on [Discord](https://dsc.gg/competescraft)
