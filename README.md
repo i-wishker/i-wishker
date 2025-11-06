@@ -4,4 +4,4 @@
 # Find me on the web 🌐:
 - Learning in public on [Discord](https://dsc.gg/competescraft)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/awishkar-sangraula-b4224731a/)
-- also in the coffee shop!
+- Also in the coffee shop🍵!
