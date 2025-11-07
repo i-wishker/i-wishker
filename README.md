@@ -14,6 +14,12 @@
 ㅤㅤㅤㅤㅤ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLPlus](https://img.shields.io/badge/SQL*Plus-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
 ### *Tools:*
 ㅤㅤㅤㅤㅤ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+### 🎮 Play Tic Tac Toe
+<p align="center">
+<a href="https://i-wishker.github.io/community-tictactoe/" target="_blank">
+  <img src="https://img.shields.io/badge/▶️%20Play%20TicTacToe-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=i-wishker&theme=gruvbox_light&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
