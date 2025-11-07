@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/▶️%20Play%20TicTacToe-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=i-wishker&theme=gruvbox_light&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-wishker&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
